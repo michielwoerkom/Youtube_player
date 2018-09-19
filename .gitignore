@@ -1,9 +1,46 @@
+#general
 /node_modules
 bundle.js
 npm-debug.log
 .DS_Store
+
 .gitignore
 *.json
+
 # IntelliJ
 *.iml
 /.idea
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.gitignore
+.htaccess
+
+*.jpg\n*.jpeg\n*.png\n*.gif\n
+
+google*
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
